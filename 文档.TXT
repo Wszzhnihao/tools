@@ -1,0 +1,74 @@
+Unity3d中Json不能解析二维数组的解决方法值类型
+ JsonConvert.DeserializeObject<Root>(jsonStr);
+4.7：1242*2208
+5.5：1242*2688
+iX：750*1334
+16.1.4479499
+19.0.5232133
+
+19.2.5345600
+
+https://pl.moxiwh4.com/xyxgame/xxl/version.manifest
+
+ node version_generator.js -v 11.5 -u https://pl.moxiwh4.com/xyxgame/xxl/11_5/ -s build/jsb-link -d temp/
+cd /mnt/xyxgame/xxl
+https://admin.qytxhy.com/admin/index/index?jm_auth=4354741dd4078a7f8865dad6168699f5
+
+devtools://devtools/bundled/js_app.html?v8only=true&ws=192.168.1.92:6086/00010002-0003-4004-8005-000600070008
+
+5.5 1242*2208
+6.5 1242*2688
+12.9 2048*2732
+cmd /k chkdsk c: /f /x
+https://blog.csdn.net/qq_35896304/article/details/89202252?utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduend~default-1-89202252.nonecase&utm_term=ios%E5%AE%A1%E6%A0%B8%E6%B8%B8%E6%88%8F%E4%B8%80%E8%88%AC%E5%A4%9A%E4%B9%85&spm=1000.2123.3001.4430
+
+
+https://blog.csdn.net/ios8988/article/details/90732182?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase
+
+
+https://blog.csdn.net/qq_36622009/article/details/104818876  广告投放
+
+https://www.jianshu.com/p/1de5966719ba 广告投放
+
+https://zhuanlan.zhihu.com/p/98882553 unity ECS
+
+https://blog.csdn.net/oyh6857451/article/details/88596627  
+
+http://m.mingzi.jb51.net/zhuanti/chaozhuai/ 游戏的名字随机
+
+https://docs.qq.com/sheet/DS0d2VVVJYmpvZ0pZ?tab=BB08J2
+
+https://github.com/liyupi/daxigua
+
+https://www.zhihu.com/question/441207998/answer/1702658704
+
+https://github.com/NingZhengsheng/ComposeGigWatermelon
+
+https://blog.csdn.net/qq_38269366/article/details/84994586   cocos去启动页https://blog.csdn.net/qq_31741481/article/details/106771004
+
+C:\WINDOWS\SoftwareDistribution
+
+https://blog.csdn.net/oyh6857451/article/details/88596627
+
+https://n-analytics.cocos.com/docs/zh/h5/default_template_h5.html
+
+
+
+
+http://docs.sdkbox.com/zh/plugins/admob/v3-js/#initialize-admob SDK
+
+https://blog.csdn.net/qq_35789101/article/details/108751081
+
+https://docs.getui.com/monetize/start/android/  通用聚合sdk
+
+https://www.bilibili.com/video/BV1Ra411c7Gz?p=1&share_medium=android&share_plat=android&share_source=QQ&share_tag=s_i&timestamp=1618451467&unique_k=N6nerc
+热更新那些事
+
+https://tidys.gitee.io/doc/#/ 小王子插件
+
+ var strA = jsb.fileUtils.getStringFromFile(jsb.fileUtils.getWritablePath() + 'cocosHot/asset.manifest');
+            var strB = jsb.fileUtils.getStringFromFile(jsb.fileUtils.getWritablePath() + 'remote-asset/project.manifest')
+            if (strA != "" && strB == "") {
+
+                jsb.fileUtils.writeStringToFile(JSON.stringify(JSON.parse(strA)), jsb.fileUtils.getWritablePath() + 'remote-asset/project.manifest');
+            }
