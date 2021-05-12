@@ -3,10 +3,6 @@ Unity3d中Json不能解析二维数组的解决方法值类型
 4.7：1242*2208
 5.5：1242*2688
 iX：750*1334
-16.1.4479499
-19.0.5232133
-
-19.2.5345600
 
 https://pl.moxiwh4.com/xyxgame/xxl/version.manifest
 
@@ -20,7 +16,7 @@ devtools://devtools/bundled/js_app.html?v8only=true&ws=192.168.1.92:6086/0001000
 6.5 1242*2688
 12.9 2048*2732
 
-43.234.148.29 36456
+49.234.148.29 36456  zhouzhanh 
 cmd /k chkdsk c: /f /x
 https://blog.csdn.net/qq_35896304/article/details/89202252?utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduend~default-1-89202252.nonecase&utm_term=ios%E5%AE%A1%E6%A0%B8%E6%B8%B8%E6%88%8F%E4%B8%80%E8%88%AC%E5%A4%9A%E4%B9%85&spm=1000.2123.3001.4430
 
@@ -74,3 +70,11 @@ https://tidys.gitee.io/doc/#/ 小王子插件
 
                 jsb.fileUtils.writeStringToFile(JSON.stringify(JSON.parse(strA)), jsb.fileUtils.getWritablePath() + 'remote-asset/project.manifest');
             }
+
+
+
+
+https://github.com/JasonXuDeveloper/JEngine/commit/16e9bda57607870242972567fb492532213abd59   热更学习
+https://github.com/JasonXuDeveloper/JEngine/blob/development/UnityProject/Assets/Scripts/Helpers/RegisterCLRMethodRedirctionHelper.cs    热更学习
+
+https://www.it610.com/article/1280077696583352320.htm 处理icon裁剪问题
