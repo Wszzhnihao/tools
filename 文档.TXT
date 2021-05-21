@@ -78,3 +78,10 @@ https://github.com/JasonXuDeveloper/JEngine/commit/16e9bda57607870242972567fb492
 https://github.com/JasonXuDeveloper/JEngine/blob/development/UnityProject/Assets/Scripts/Helpers/RegisterCLRMethodRedirctionHelper.cs    热更学习
 
 https://www.it610.com/article/1280077696583352320.htm 处理icon裁剪问题
+
+https://www.bilibili.com/video/BV17K4y1N7Q2?p=11&share_medium=iphone&share_plat=ios&share_source=QQ&share_tag=s_i&timestamp=1620804342&unique_k=OuXqoX  计算机原理
+
+
+UnityShaderLab   
+
+https://www.lfzxb.top/ ET框架分享大佬
